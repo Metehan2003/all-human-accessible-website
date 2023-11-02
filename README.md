@@ -14,7 +14,7 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 ## Beschrijving
 ![Schermafbeelding 2023-11-02 210339](https://github.com/Metehan2003/all-human-accessible-website/assets/144008559/7735c993-d1e4-45f5-ba66-1cc1c7f2c25d)
 
-- Met dit ontwerp horen bedrijven tot 100 personen een site te hebben dat overzicht geeft over hun eigen handprint en footprint.
+- Met dit ontwerp horen bedrijven tot 100 personen een site te hebben dat overzicht geeft over hun eigen handprint en footprint. De site moet ook toegankelijk zijn volgens de WCAG richtlijnen.
 Github: https://github.com/Metehan2003/all-human-accessible-website
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
