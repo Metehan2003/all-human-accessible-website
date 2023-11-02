@@ -1,0 +1,29 @@
+body {
+  background-color: aquamarine;
+  font-weight: bolder;
+}
+
+.searchbar {
+  border-radius: 30%;
+  background-color: rgb(224, 223, 223);
+  width: 120px;
+  height: 35px;
+  border: solid 3px;
+  position: absolute;
+  left: 86%;
+}
+
+.pf {
+  border: solid 4px;
+  width: 35px;
+  height: 22px;
+  border-radius: 50%;
+  size: 50em;
+  text-align: center;
+  color: white;
+  border-color: black;
+  background-color: black;
+  position: absolute;
+  left: 95%;
+  top: 5%;
+}
