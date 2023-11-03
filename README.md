@@ -31,7 +31,13 @@ Breakdownschets van de site:
 
 
 
-## Bronnen
+## Bronnen voor toegankelijkheid
+- A11yproject.com:
+  https://www.a11yproject.com/checklist/
+- Keyboard navigatie test
+- colour contrast analyzer
+- screenreader van google chrome
+- axe extention 
 
 ## Licentie
 
