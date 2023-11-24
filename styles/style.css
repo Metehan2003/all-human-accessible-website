@@ -1,6 +1,8 @@
 body {
   background-color: aquamarine;
   font-weight: bolder;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .pf {
@@ -15,7 +17,7 @@ body {
   background-color: black;
   position: absolute;
   left: 95%;
-  top: 5%;
+  top: 0%;
 }
 
 form.example input[type="text"] {
@@ -31,4 +33,12 @@ form.example input[type="text"] {
   border: solid 3px;
   position: absolute;
   left: 85%;
+}
+
+form.example {
+}
+
+@media only screen (max-width: 600px) {
+  body {
+  }
 }
